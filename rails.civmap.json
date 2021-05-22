@@ -1,3 +1,23 @@
+{
+  "name": "A the ocean lmao",
+  "info": {"version": "3.0.0-beta3","last_update": 1584470573},
+  "id": "f6346c91-90dd-44fc-aa6b-0fe9e90b6c96",
+  "features": [
+    {
+      "name": "A the ocean lmao",
+      "creator": "joe mama",
+      "web": "https://www.reddit.com/r/civclassics/",
+      "map_image": {
+        "url": "https://cdn.discordapp.com/attachments/561592328243118086/845490084308451348/classics_ocean_map_lol.png",
+        "bounds": [[-13071.9861316,-13071.9861316],[13071.9861316,13071.9861316]]
+      },
+      "id": "fec32453-f757-4c39-9593-7584a6e71fd0"
+    }
+  ],
+  "style_base": {
+    "opacity": 0.8
+  }
+}
 {"features":[
 {"type":"rail_edge","elevation":"surface","id":"d1a2546a-c72e-4520-8f51-a20fd0e4a4fa","line":[[[-1944,7674],[-2056,7569],[-2240,7569],[-2369,7505],[-2498,7505]]]},
 {"name":"Iria - Caledonia","type":"rail_edge","id":"70e66102-6e6b-4973-8eb1-1668c61050d3","line":[[[10117,-742],[9894,-742],[8760,392],[8746,392],[8743,395],[8743,501]]],"accuracy":3,"progress":"finished","elevation":"underground","two_way":true},
