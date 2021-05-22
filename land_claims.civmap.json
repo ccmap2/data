@@ -4,7 +4,7 @@
   "id": "dd432eea-e17b-471b-8b78-f22904e9ce8c",
   "presentations": [
     {
-      "name": "Land Claims (incomplete)",
+      "name": "Land Claims Solid Test",
       "style_base": {
         "color": "$color|#888888",
         "dash_array": {
@@ -16,9 +16,9 @@
         },
         "fill_opacity": 1.0,
         "label": null,
-        "opacity": 0,
+        "opacity": 1,
         "stroke_color": "#000000",
-        "stroke_width": 1
+        "stroke_width": 0
       },
       "style_highlight": {
         "fill_opacity": 0.5,
