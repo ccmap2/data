@@ -1,5 +1,5 @@
 {
-  "name": "Land Claims (incomplete)",
+  "name": "Land Claims Solid Test",
   "info": { "version": "3.0.0-beta3", "last_update": 1613704305 },
   "id": "dd432eea-e17b-471b-8b78-f22904e9ce8c",
   "presentations": [
@@ -14,9 +14,9 @@
             "true": [5, 10]
           }
         },
-        "fill_opacity": 0.3,
+        "fill_opacity": 1.0,
         "label": null,
-        "opacity": 1,
+        "opacity": 0,
         "stroke_color": "#000000",
         "stroke_width": 1
       },
