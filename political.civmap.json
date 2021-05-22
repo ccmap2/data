@@ -9,7 +9,7 @@
       "web": "https://www.reddit.com/r/civclassics/",
       "map_image": {
         "url": "https://cdn.discordapp.com/attachments/561592328243118086/845490084308451348/classics_ocean_map_lol.png",
-        "bounds": [[-13312,-13312],[13312,13312]]
+        "bounds": [[-13056,-13056],[13056,13056]] 
       },
       "id": "6ec32453-f757-4c39-9593-7584a6e71fd0"
     }
