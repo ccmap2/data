@@ -2,6 +2,18 @@
   "name": "Land Claims Solid Test",
   "info": { "version": "3.0.0-beta3", "last_update": 1621653759 },
   "id": "dd432eea-e17b-471b-8b78-f22904e9ce8c",
+  "features": [
+    {
+      "name": "A the ocean lmao",
+      "creator": "joe mama",
+      "web": "https://www.reddit.com/r/civclassics/",
+      "map_image": {
+        "url": "https://cdn.discordapp.com/attachments/561592328243118086/845490084308451348/classics_ocean_map_lol.png",
+        "bounds": [[-13071.9861316,-13071.9861316],[13071.9861316,13071.9861316]]
+      },
+      "id": "fec32453-f757-4c39-9193-7584a6e71fd0"
+    }
+  ],
   "presentations": [
     {
       "name": "Land Claims Solid Test",
