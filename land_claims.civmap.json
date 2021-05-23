@@ -1,7 +1,7 @@
 {
   "name": "D the ocean lmao",
   "info": {"version": "3.0.0-beta3","last_update": 1584470573},
-  "id": "dd432eea-e17b-471b-8b78-f22904e9ce8c",
+  "id": "dd632eea-e17b-471b-8b78-f22904e9ce8c",
   "features": [
     {
       "name": "D the ocean lmao",
@@ -19,12 +19,12 @@
   }
 },
 {
-  "name": "Land Claims Solid Test",
+  "name": "D Land Claims Solid Test",
   "info": { "version": "3.0.0-beta3", "last_update": 1621653759 },
   "id": "dd432eea-e17b-471b-8b78-f22904e9ce8c",
   "presentations": [
     {
-      "name": "Land Claims Solid Test",
+      "name": "D Land Claims Solid Test",
       "style_base": {
         "color": "$color|#888888",
         "dash_array": {
