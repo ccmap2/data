@@ -1,14 +1,8 @@
 {"enabled_presentation":"Rails and Stops","id":"ccmap/rail/collection","info":{"version":"3.0.0-beta3","last_update":1555440266},"name":"Rails","source":"data/rails.civmap.json",
 "features":[
-{"name":"Rail Stops",
- "style_base":{
-   "opacity":{"feature_key":"type","default":1},
-  "stroke_color":{"feature_key":"elevation","default":"#808080","categories":{"underground":"#00ff00","surface":"#00ffff"}},
-   "dash_array":{"feature_key":"progress","default":null,"categories":{"planned":[0,10],"started":[5,10]}},
-   "stroke_width":{"feature_key":"type","default":2},
-   "color":"#ffffff","icon":"circle","icon_size":{"feature_key":"stop_importance","default":16,"categories":{"minor":12}}
- }
-},
+{"name":"Rails only","style_base":{"opacity":{"feature_key":"type","default":1,"categories":{"rail_node":0}},"stroke_color":{"feature_key":"elevation","default":"#808080","categories":{"underground":"#00ff00","surface":"#00ffff"}},"dash_array":{"feature_key":"progress","default":null,"categories":{"planned":[0,10],"started":[5,10]}},"stroke_width":{"feature_key":"type","default":2,"categories":{"rail_edge":5}},"color":"#ffffff","icon":"circle","icon_size":{"feature_key":"stop_importance","default":16,"categories":{"minor":12}}}},
+{"name":"Stops only","style_base":{"opacity":{"feature_key":"type","default":1,"categories":{"rail_edge":0}},"stroke_color":{"feature_key":"elevation","default":"#808080","categories":{"underground":"#00ff00","surface":"#00ffff"}},"dash_array":{"feature_key":"progress","default":null,"categories":{"planned":[0,10],"started":[5,10]}},"stroke_width":{"feature_key":"type","default":2,"categories":{"rail_edge":5}},"color":"#ffffff","icon":"circle","icon_size":{"feature_key":"stop_importance","default":16,"categories":{"minor":12}}}}
+
 {"name":"Achaia","type":"rail_node","id":"565a11b2-03b7-46c8-8a16-7b6a1577a161","x":-11705,"z":-4139,"elevation":"underground","accuracy":99},
 {"name":"(SPQR)","type":"rail_node","x":-11309,"z":-5171,"id":"aa01c114-7f0d-41fd-b749-63a09714c73f","elevation":"underground"},
 {"name":"(SPQR)","type":"rail_node","x":-11329,"z":-3517,"id":"3e775d4c-80e1-403d-b3a2-baedc029ec5d","elevation":"underground"},
