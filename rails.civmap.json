@@ -1,4 +1,4 @@
-{"id":"ccmap/rail/collection","info":{"version":"3.0.0-beta3","last_update":1555440266},"name":"Rails","source":"data/rails.civmap.json",
+{"id":"ccmap/rail/collection","info":{"version":"3.0.0-beta3","last_update":1555440266},"name":"Rail Stops","source":"data/rails.civmap.json",
 "features":[
 {"name":"Rail Stops",
  "style_base":{
