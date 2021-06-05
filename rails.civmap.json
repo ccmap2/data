@@ -1,8 +1,4 @@
-{"enabled_presentation":"Rails and Stops","id":"ccmap/rail/collection","info":{"version":"3.0.0-beta3","last_update":1555440266},"name":"Rails","source":"data/rails.civmap.json",
-"features":[
-{"name":"Rails only","style_base":{"opacity":{"feature_key":"type","default":1,"categories":{"rail_node":0}},"stroke_color":{"feature_key":"elevation","default":"#808080","categories":{"underground":"#00ff00","surface":"#00ffff"}},"dash_array":{"feature_key":"progress","default":null,"categories":{"planned":[0,10],"started":[5,10]}},"stroke_width":{"feature_key":"type","default":2,"categories":{"rail_edge":5}},"color":"#ffffff","icon":"circle","icon_size":{"feature_key":"stop_importance","default":16,"categories":{"minor":12}}}},
-{"name":"Stops only","style_base":{"opacity":{"feature_key":"type","default":1,"categories":{"rail_edge":0}},"stroke_color":{"feature_key":"elevation","default":"#808080","categories":{"underground":"#00ff00","surface":"#00ffff"}},"dash_array":{"feature_key":"progress","default":null,"categories":{"planned":[0,10],"started":[5,10]}},"stroke_width":{"feature_key":"type","default":2,"categories":{"rail_edge":5}},"color":"#ffffff","icon":"circle","icon_size":{"feature_key":"stop_importance","default":16,"categories":{"minor":12}}}}
-
+{"features":[
 {"name":"Achaia","type":"rail_node","id":"565a11b2-03b7-46c8-8a16-7b6a1577a161","x":-11705,"z":-4139,"elevation":"underground","accuracy":99},
 {"name":"(SPQR)","type":"rail_node","x":-11309,"z":-5171,"id":"aa01c114-7f0d-41fd-b749-63a09714c73f","elevation":"underground"},
 {"name":"(SPQR)","type":"rail_node","x":-11329,"z":-3517,"id":"3e775d4c-80e1-403d-b3a2-baedc029ec5d","elevation":"underground"},
@@ -133,7 +129,6 @@
 {"name":"Westgrove","type":"rail_node","rail_node_id":"WES","x":7000,"z":2576,"id":"ccmap/rail/stop/WES","elevation":"underground"},
 {"name":"Westminster","type":"rail_node","rail_node_id":"WM","x":-7120,"z":5100,"contact":"specificlanguage","rail_node_type":"Station","id":"ccmap/rail/stop/WM","elevation":"surface"},
 {"name":"Westmore","type":"rail_node","id":"dfa1e147-b255-4a42-8e32-e53ab653b325","x":-2492,"z":-6684,"elevation":"underground","progress":"finished","accuracy":99},
-{"name":"Xalta Moro","type":"rail_node","x":1911,"z":11070,"id":"8ccf23bb-f7b1-49f8-9c6e-31c7a6f7c089","elevation":"surface"},
 {"name":"Icenia","type":"rail_node","x":-1671,"z":-1422,"id":"2eaf76c1-2e48-461a-a8a0-1eab4f9d76e4","elevation":"underground"},
 {"name":"Yujotlan","type":"rail_node","x":-1929,"z":7328,"id":"0e5d01a6-9f74-45a0-8faa-9c28bf6bc5c7","elevation":"underground"},
 {"name":"Knights Templar","type":"rail_node","id":"6f0c3dc7-0c88-4ba1-82d6-05e78113852a","x":8461,"z":3961,"elevation":"underground","accuracy":3},
@@ -142,5 +137,6 @@
 {"name":"Cumbria","type":"rail_node","elevation":"underground","id":"9719993d-3051-495d-b8a8-10882196fbf2","x":-4897,"z":-10929},
 {"name":"Valyria","type":"rail_node","x":-2633,"z":-8393,"contact":"Doommad","id":"19b559dd-9048-44ba-82ff-d65f07762f12","elevation":"underground"},
 {"name":"Tel Aviv","type":"rail_node","rail_node_id":"TLV","x":-1338,"z":-6942,"rail_node_type":"Station","id":"ccmap/rail/stop/TelAviv","elevation":"underground"},
-{"name":"Ashelor Station","type":"rail_node","x":4373,"z":4852,"id":"08d8ca2a-d565-4b5f-b417-40af73602bb3","elevation":"underground","collectionId":"ccmap/rail/collection"}
-]}
+{"name":"Ashelor Station","type":"rail_node","x":4373,"z":4852,"id":"08d8ca2a-d565-4b5f-b417-40af73602bb3","elevation":"underground","collectionId":"ccmap/rail/collection"},
+{"name":"Rails only","style_base":{"opacity":{"feature_key":"type","default":1,"categories":{"rail_node":0}},"stroke_color":{"feature_key":"elevation","default":"#808080","categories":{"underground":"#00ff00","surface":"#00ffff"}},"dash_array":{"feature_key":"progress","default":null,"categories":{"planned":[0,10],"started":[5,10]}},"stroke_width":{"feature_key":"type","default":2,"categories":{"rail_edge":5}},"color":"#ffffff","icon":"circle","icon_size":{"feature_key":"stop_importance","default":16,"categories":{"minor":12}}}},
+{"name":"Stops only","style_base":{"opacity":{"feature_key":"type","default":1,"categories":{"rail_edge":0}},"stroke_color":{"feature_key":"elevation","default":"#808080","categories":{"underground":"#00ff00","surface":"#00ffff"}},"dash_array":{"feature_key":"progress","default":null,"categories":{"planned":[0,10],"started":[5,10]}},"stroke_width":{"feature_key":"type","default":2,"categories":{"rail_edge":5}},"color":"#ffffff","icon":"circle","icon_size":{"feature_key":"stop_importance","default":16,"categories":{"minor":12}}}}],"enabled_presentation":"Rails and Stops","id":"ccmap/rail/collection","info":{"version":"3.0.0-beta3","last_update":1555440266},"name":"Rails","source":"data/rails.civmap.json"}
