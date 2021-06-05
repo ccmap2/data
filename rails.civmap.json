@@ -2,10 +2,10 @@
 "features":[
 {"name":"Rail Stops",
  "style_base":{
-   "opacity":{"feature_key":"type","default":1,"categories":{"rail_edge":0}},
+   "opacity":{"feature_key":"type","default":1},
   "stroke_color":{"feature_key":"elevation","default":"#808080","categories":{"underground":"#00ff00","surface":"#00ffff"}},
    "dash_array":{"feature_key":"progress","default":null,"categories":{"planned":[0,10],"started":[5,10]}},
-   "stroke_width":{"feature_key":"type","default":2,"categories":{"rail_edge":5}},
+   "stroke_width":{"feature_key":"type","default":2},
    "color":"#ffffff","icon":"circle","icon_size":{"feature_key":"stop_importance","default":16,"categories":{"minor":12}}
  }
 },
